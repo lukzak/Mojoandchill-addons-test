@@ -1,2 +1,6 @@
 Repo name: <Mojoandchill>
 <addons>
+[KLH Threat Meter]
+[Deadly Boss Mods (DBM)]
+[Decurse]
+</addons>
