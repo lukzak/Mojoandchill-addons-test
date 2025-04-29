@@ -1,4 +1,5 @@
+!addon_repo
 Repo name: <Mojoandchill>
 <addons>
-[Decurse]::
+[Decurse]::https://github.com/lukzak/Mojoandchill-addons-test/raw/refs/heads/main/Decursive.zip
 </addons>
