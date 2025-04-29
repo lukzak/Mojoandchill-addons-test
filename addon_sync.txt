@@ -2,4 +2,5 @@
 Repo name: <Mojoandchill>
 <addons>
 [Decurse]::https://github.com/lukzak/Mojoandchill-addons-test/raw/refs/heads/main/Decursive.zip
+[Blumbo]::https://github.com/lukzak/Mojoandchill-addons-test/raw/refs/heads/main/Decursive.zip
 </addons>
